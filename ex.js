@@ -63,7 +63,7 @@ function main() {
         stopCar();
         refuelCar(20);
         startCar();
-        driveCar(5);
+        driveCar(8);
         stopCar();
     } catch (error) {
         console.error('An error occurred:', error.message);
